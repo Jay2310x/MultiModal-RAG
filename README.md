@@ -1,1 +1,1 @@
-# MultiModal-RAG
+#RAG
